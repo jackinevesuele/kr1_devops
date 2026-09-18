@@ -1,2 +1,7 @@
-# devops-course-2026
-Git and GitHub DevOps coursework
+# DevOps Course 2026
+
+Репозиторий для практических работ по курсу DevOps.
+
+## Студент
+
+Босарев Евгений, ЭФБО-11-24.
