@@ -1,2 +1,13 @@
-# devops-course-2026
-Git and GitHub DevOps coursework
+# DevOps Course 2026
+
+Учебный репозиторий курса «Инструменты DevOps».
+
+## Автор
+
+Босарев Евгений, группа ЭФБО-11-24.
+
+## Стек
+
+- Git / GitHub
+- Python
+- Docker
